@@ -9,8 +9,8 @@
         <img class="banner3" src="https://image.flaticon.com/icons/png/512/123/123392.png" style= "width:250px">
         <hr class="divider">
         <div class="page-title">
-          <p class="title-main">Student Scheduler</p>
-          <p class="title">Redefining student scheduling</p>
+          <p class="title-main">Car Rental</p>
+          <p class="title">Car Rental Website</p>
         </div>
       </div>
       <img class="banner1" src="https://image.flaticon.com/icons/png/512/60/60785.png" style= "width:100px">
